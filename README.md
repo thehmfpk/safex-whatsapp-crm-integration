@@ -14,12 +14,13 @@ Airtable base if you configure it) plus a live dashboard to view it all.
 
 ### CRM Page
 
-![CRM](images/crm.png)
-![CRM2](images/crm2.png)
+![CRM](/crm.png)
+
+![CRM2](/crm2.png)
 
 ### whatsapp
 
-![whatsapp](images/whatsapp.png)
+![whatsapp](/whatsapp.png)
 
 ---
 
