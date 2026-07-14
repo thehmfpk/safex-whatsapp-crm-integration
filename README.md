@@ -10,6 +10,16 @@ number, **tags their pipeline status** automatically using an LLM, and
 stores everything in a simple CRM (a CSV "sheet" by default, or an
 Airtable base if you configure it) plus a live dashboard to view it all.
 
+## Screenshots
+
+### CRM Page
+
+![CRM](images/CRM.png)
+![CRM2](images/CRM2.png)
+
+### whatsapp
+
+![whatsapp](images/whatsapp.png)
 ---
 
 ## 1. What this module does
