@@ -1,0 +1,10 @@
+﻿.env
+venv/
+__pycache__/
+*.pyc
+ngrok.exe
+ngrok
+.vscode/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
