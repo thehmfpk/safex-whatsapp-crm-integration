@@ -2,7 +2,6 @@
 
 ## CRM Integration Module
 
-**Group 53 · Week 2 individual contribution**
 
 This is the **CRM Integration** component of the group's WhatsApp Auto-Reply
 Bot: it takes leads captured by the bot, **de-duplicates** them by phone
